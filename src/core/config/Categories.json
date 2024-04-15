@@ -168,6 +168,8 @@
             "Hex to PEM",
             "Hex to Object Identifier",
             "Object Identifier to Hex",
+            "PEM to JWK",
+            "JWK to PEM",
             "Generate PGP Key Pair",
             "PGP Encrypt",
             "PGP Decrypt",
@@ -179,8 +181,14 @@
             "RSA Verify",
             "RSA Encrypt",
             "RSA Decrypt",
+            "Generate ECDSA Key Pair",
+            "ECDSA Signature Conversion",
+            "ECDSA Sign",
+            "ECDSA Verify",
             "Parse SSH Host Key",
-            "Parse CSR"
+            "Parse CSR",
+            "Public Key from Certificate",
+            "Public Key from Private Key"
         ]
     },
     {
